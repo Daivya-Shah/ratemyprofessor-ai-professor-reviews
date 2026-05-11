@@ -115,7 +115,3 @@ Open [http://localhost:3000](http://localhost:3000) and you're good to go.
 
 ---
 
-## Deployment
-
-This app is designed to deploy on [Vercel](https://vercel.com). Just connect the repo and add your environment variables in the Vercel dashboard. The Vercel Analytics integration is already wired up.
-
